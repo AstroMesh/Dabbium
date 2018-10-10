@@ -1,0 +1,13 @@
+using UnityEngine;
+using System.Collections;
+using UnityEngine.SceneManagement;
+
+
+public class Screen{
+
+	
+	{
+		private void LoadByIndex( int sceneIndex);	{
+		sceneManager.LoadScene(sceneIndex);
+	}
+	
